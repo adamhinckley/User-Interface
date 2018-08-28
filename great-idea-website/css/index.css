@@ -145,7 +145,11 @@ button {
 	position: absolute;
 	left: 75px;
 	font-size: 15px;
+}
 
+button:hover {
+	color: white;
+	background-color: black;
 }
 
 .topSection {
