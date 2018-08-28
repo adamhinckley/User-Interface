@@ -76,6 +76,11 @@ h1, h2, h3, h4, h5 {
 	position: relative;
 }
 
+.fixed-nav {
+	position: fixed;
+	width: 875px;
+	z-index: 100;
+}
 
 nav {
 	width: 100%;
